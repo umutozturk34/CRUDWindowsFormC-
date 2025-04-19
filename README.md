@@ -1,1 +1,1 @@
-# CRUDWindowsFormC-
+This is a basic CRUD (Create, Read, Update, Delete) application built using C# and Windows Forms. The application connects to a PostgreSQL database and allows users to manage data through a simple desktop interface.
