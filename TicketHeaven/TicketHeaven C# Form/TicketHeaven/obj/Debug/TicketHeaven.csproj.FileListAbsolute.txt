@@ -1,0 +1,93 @@
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\TicketHeaven.exe.config
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\TicketHeaven.exe
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\TicketHeaven.pdb
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\Npgsql.dll
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Buffers.dll
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Memory.dll
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Text.Json.dll
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\Npgsql.xml
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Buffers.xml
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Memory.xml
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Text.Json.xml
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\obj\Debug\TicketHeaven.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\obj\Debug\TicketHeaven.Form1.resources
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\obj\Debug\TicketHeaven.Properties.Resources.resources
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\obj\Debug\TicketHeaven.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\obj\Debug\TicketHeaven.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\obj\Debug\TicketHe.E6D63226.Up2Date
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\obj\Debug\TicketHeaven.exe
+C:\Users\hp\source\repos\TicketHeaven\TicketHeaven\obj\Debug\TicketHeaven.pdb
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\TicketHeaven.exe.config
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\TicketHeaven.exe
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\TicketHeaven.pdb
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\Npgsql.dll
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Buffers.dll
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Memory.dll
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Text.Json.dll
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.ValueTuple.dll
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\Npgsql.xml
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Buffers.xml
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Memory.xml
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Text.Json.xml
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.ValueTuple.xml
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.csproj.AssemblyReference.cache
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.Form1.resources
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.Properties.Resources.resources
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.csproj.GenerateResource.cache
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.csproj.CoreCompileInputs.cache
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHe.E6D63226.Up2Date
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.exe
+C:\Users\alper\Downloads\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.pdb
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\TicketHeaven.exe.config
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\TicketHeaven.exe
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\TicketHeaven.pdb
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\Npgsql.dll
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Buffers.dll
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Memory.dll
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Text.Json.dll
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\Npgsql.xml
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Buffers.xml
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Memory.xml
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Text.Json.xml
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.Form1.resources
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.Properties.Resources.resources
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHe.E6D63226.Up2Date
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.exe
+C:\Users\hp\Desktop\DBMS Homework\DBMS Homework\TicketHeaven APPLICATİON CODES\TicketHeaven\obj\Debug\TicketHeaven.pdb
